@@ -4,8 +4,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-hour = pd.read_csv("hour.csv")
-day = pd.read_csv("day.csv")
+hour = pd.read_csv("https://raw.githubusercontent.com/xoghub/Project-Akhir-Dicoding-Data-Analist-with-Python/main/hour.csv")
+day = pd.read_csv("https://raw.githubusercontent.com/xoghub/Project-Akhir-Dicoding-Data-Analist-with-Python/main/day.csv")
 
 st.title('Dashboard Project Analisis Data Bike Share')
 
