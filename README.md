@@ -30,3 +30,8 @@ upload app.py
 copy your url 
 
 masukan code External URL setelah HTTP dan sebelum nomor port
+
+# Streamlit Cloud
+Kunjungi link dibawah ini:
+https://ho6jdvqjzcanjgv5g8nse2.streamlit.app/
+
